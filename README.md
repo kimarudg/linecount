@@ -2,13 +2,6 @@
 
 The LineCount extension for Visual Studio Code counts and displays the lines of code, the lines of comment, the lines of blank. 
 
-
-[![Version](https://vsmarketplacebadge.apphb.com/version/yycalm.linecount.svg)](https://marketplace.visualstudio.com/items?itemName=yycalm.linecount)
-
-[![Installs](https://vsmarketplacebadge.apphb.com/installs/yycalm.linecount.svg)](https://marketplace.visualstudio.com/items?itemName=yycalm.linecount)
-
-[![Ratings](https://vsmarketplacebadge.apphb.com/rating/yycalm.linecount.svg)](https://marketplace.visualstudio.com/items?itemName=yycalm.linecount)
-
 ---
 
 ## Features
@@ -32,7 +25,7 @@ The LineCount extension for Visual Studio Code counts and displays the lines of 
     Download source code and install dependencies:
 
 ```
-git clone https://github.com/yycalm/linecount.git
+git clone https://github.com/kimarudg/linecount.git
 cd linecount
 npm install
 code .
