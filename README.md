@@ -112,16 +112,6 @@ There are two commands available.
 
 You can access them from the command palette (Ctrl+Shift+P on Windows/Linux), or click StatusBarItem 'LineCount'.
 
-1. LineCount: Count current file:
-
-![Count current file](https://github.com/kimarudg/linecount/blob/master/images/countcurrentfile.gif?raw=true)
-
-
-2. LineCount: Count Workspace files:
-
-![Count workspace files](https://github.com/kimarudg/linecount/blob/master/images/countworkspace.gif?raw=true)
-
-
 ## Support
 
 [Repository](https://github.com/kimarudg/linecount)
